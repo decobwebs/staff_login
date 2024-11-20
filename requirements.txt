@@ -3,3 +3,4 @@ openpyxl==3.1.2
 qrcode==7.3.1
 smtplib==3.9.1
 email==6.0.0
+gunicorn==21.2.0
